@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
-	"gin/lib"
 	"github.com/codegangsta/cli"
 	"github.com/codegangsta/envy/lib"
+	"lib"
 
 	"log"
 	"os"
